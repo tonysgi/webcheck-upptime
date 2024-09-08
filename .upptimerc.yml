@@ -6,7 +6,7 @@ sites:
   - name: Centennial
     url: https://www.centennialcollege.ca
   - name: myCentennial
-    url: https://my.centennialcollege.ca
+    url: https://status.iotio.net
 
 
 status-website:
