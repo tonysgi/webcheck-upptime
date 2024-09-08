@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.iotio.net.ico",
     "slug": "my-centennial",
     "status": "up",
-    "uptime": "1.17%",
-    "uptimeDay": "1.17%",
-    "uptimeWeek": "1.17%",
-    "uptimeMonth": "1.17%",
-    "uptimeYear": "1.17%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 403,
     "timeDay": 403,
     "timeWeek": 403,
     "timeMonth": 403,
     "timeYear": 403,
-    "dailyMinutesDown": {
-      "2024-09-08": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
