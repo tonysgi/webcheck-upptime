@@ -4,19 +4,19 @@
     "url": "https://www.centennialcollege.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.centennialcollege.ca.ico",
     "slug": "centennial",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 186,
-    "timeWeek": 356,
-    "timeMonth": 343,
-    "timeYear": 309,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 347,
+    "timeDay": 2685,
+    "timeWeek": 960,
+    "timeMonth": 783,
+    "timeYear": 347,
     "dailyMinutesDown": {
-      "2025-02-23": 0
+      "2025-02-23": 20
     }
   }
 ]
