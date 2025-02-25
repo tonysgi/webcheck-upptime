@@ -6,15 +6,15 @@
     "slug": "centennial",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.64%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 345,
-    "timeDay": 2688,
-    "timeWeek": 959,
-    "timeMonth": 734,
-    "timeYear": 345,
+    "time": 344,
+    "timeDay": 176,
+    "timeWeek": 921,
+    "timeMonth": 691,
+    "timeYear": 344,
     "dailyMinutesDown": {
       "2025-02-23": 20
     }
