@@ -1,7 +1,7 @@
 url: https://www.centennialcollege.ca
-status: up
-code: 200
-responseTime: 624
-lastUpdated: 2025-06-08T23:22:09.174Z
+status: down
+code: 502
+responseTime: 110
+lastUpdated: 2025-06-09T19:58:06.522Z
 startTime: 2024-09-08T07:29:12.848Z
 generator: Upptime <https://github.com/upptime/upptime>
